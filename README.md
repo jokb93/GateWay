@@ -40,14 +40,25 @@ This utilize the ADL module which makes sure that no data is lost.
 The gateway, is build as a very universal approach, and all databases, and PLC types can be substituted. This means, the interfaces build on this project, can be used, by almost any PLC and database combination.
 
 Supported Databases:
-Embedded LiteSQL DB
-External LiteSQL DB
-Azure cosmosDB
-MongoDB
+
+- Embedded LiteSQL DB
+
+- External LiteSQL DB
+
+- Azure cosmosDB
+
+- MongoDB
+ 
+
+
 
 supported PLCs:
-Beckenhoff TwinCat 3 systems
-S7 PLCs
+
+- Beckenhoff TwinCat 3 systems
+
+- S7 PLCs 
+ 
+  
 
 # The rest of the project
 
